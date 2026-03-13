@@ -18,7 +18,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor Profile](https://www.frontendmentor.io/profile/theprogrammer141)
-- Live Site URL:
+- Live Site URL: [https://my-profile-cardcomp.netlify.app/](https://my-profile-cardcomp.netlify.app/)
 
 ## My process
 
